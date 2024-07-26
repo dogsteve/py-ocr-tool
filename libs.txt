@@ -1,0 +1,4 @@
+tk
+paddleocr
+pyzbar
+pillow
